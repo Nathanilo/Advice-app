@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab105934.css",
+    "main.js": "/static/js/main.880ecfd4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "static/media/dice-img.svg": "/static/media/dice-img.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/patternDividerDesktop.svg": "/static/media/patternDividerDesktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "main.ab105934.css.map": "/static/css/main.ab105934.css.map",
+    "main.880ecfd4.js.map": "/static/js/main.880ecfd4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab105934.css",
+    "static/js/main.880ecfd4.js"
+  ]
+}
